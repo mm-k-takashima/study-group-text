@@ -2,6 +2,7 @@ baseURL = 'https://mm-k-takashima.github.io/study-group-text/'
 languageCode = 'ja'
 defaultContentLanguage = "ja"
 title = 'ego'
+enableRobotsTXT = true
 
 [params]
   title = "ego"
