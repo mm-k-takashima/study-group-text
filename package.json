@@ -5,7 +5,7 @@
   "main": "index.js",
   "licenses": [{"type":"MIT"}],
   "scripts": {
-    "test": "hugo server"
+    "test": "hugo server -D"
   },
   "private": true,
   "dependencies": {
