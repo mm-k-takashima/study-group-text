@@ -2,31 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mm-k-takashima.github.io/study-group-text/article/</loc>
-    <lastmod>2023-11-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mm-k-takashima.github.io/study-group-text/categories/</loc>
-    <lastmod>2023-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mm-k-takashima.github.io/study-group-text/categories/develop/</loc>
-    <lastmod>2023-11-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mm-k-takashima.github.io/study-group-text/</loc>
-    <lastmod>2023-11-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mm-k-takashima.github.io/study-group-text/series/</loc>
-    <lastmod>2023-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mm-k-takashima.github.io/study-group-text/series/web%E9%96%8B%E7%99%BA%E3%81%AE%E3%81%82%E3%81%9F%E3%82%8A%E3%81%BE%E3%81%88/</loc>
-    <lastmod>2023-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mm-k-takashima.github.io/study-group-text/categories/web%E9%96%8B%E7%99%BA%E3%81%AE%E3%81%82%E3%81%9F%E3%82%8A%E3%81%BE%E3%81%88/</loc>
-    <lastmod>2023-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mm-k-takashima.github.io/study-group-text/article/series-the-obvious-of-web-dev-01/</loc>
-    <lastmod>2023-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mm-k-takashima.github.io/study-group-text/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A/</loc>
-    <lastmod>2023-11-09T00:00:00+00:00</lastmod>
   </url>
 </urlset>
