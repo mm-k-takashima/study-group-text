@@ -16,11 +16,10 @@ enableRobotsTXT = true
   fullPostContent = true
   readMore = true
 
-  singleDateFormat = "2006, Jan 1"
-  indexDateFormat = "2006, Jan 1"
-  listDateFormat = "2006, Jan 1"
-
   contentratio = 0.75
+
+[params.math]
+  enable = true
 
 [taxonomies]
   category = "categories"
