@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ego</title>
-    <link>https://mm-k-takashima.github.io/study-group-text/</link>
-    <description>Recent content on ego</description>
+    <title>Web開発技術のあたりまえ on ego</title>
+    <link>https://mm-k-takashima.github.io/study-group-text/categories/web%E9%96%8B%E7%99%BA%E6%8A%80%E8%A1%93%E3%81%AE%E3%81%82%E3%81%9F%E3%82%8A%E3%81%BE%E3%81%88/</link>
+    <description>Recent content in Web開発技術のあたりまえ on ego</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mm-k-takashima.github.io/study-group-text/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mm-k-takashima.github.io/study-group-text/categories/web%E9%96%8B%E7%99%BA%E6%8A%80%E8%A1%93%E3%81%AE%E3%81%82%E3%81%9F%E3%82%8A%E3%81%BE%E3%81%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Web開発技術のあたりまえ 1 - あたりまえって何だろう -</title>
       <link>https://mm-k-takashima.github.io/study-group-text/article/series-the-obvious-of-web-dev-01/</link>

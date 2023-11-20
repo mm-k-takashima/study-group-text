@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ego</title>
-    <link>https://mm-k-takashima.github.io/study-group-text/</link>
-    <description>Recent content on ego</description>
+    <title>勉強会 on ego</title>
+    <link>https://mm-k-takashima.github.io/study-group-text/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A/</link>
+    <description>Recent content in 勉強会 on ego</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mm-k-takashima.github.io/study-group-text/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mm-k-takashima.github.io/study-group-text/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Web開発技術のあたりまえ 1 - あたりまえって何だろう -</title>
       <link>https://mm-k-takashima.github.io/study-group-text/article/series-the-obvious-of-web-dev-01/</link>
